@@ -1,0 +1,13 @@
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Release\Hotspot.exe.config
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Release\Hotspot.exe.manifest
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Release\Hotspot.application
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Release\Hotspot.exe
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Release\Hotspot.pdb
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.form_main.resources
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.Properties.Resources.resources
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.csproj.GenerateResource.Cache
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.exe.manifest
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.application
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.exe
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.pdb
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.csprojResolveAssemblyReference.cache

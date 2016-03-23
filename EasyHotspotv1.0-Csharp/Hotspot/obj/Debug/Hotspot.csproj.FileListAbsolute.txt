@@ -1,0 +1,12 @@
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Debug\Hotspot.exe
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Debug\Hotspot.exe.config
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Debug\Hotspot.exe.manifest
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\bin\Debug\Hotspot.application
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Debug\Hotspot.csprojResolveAssemblyReference.cache
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Debug\Hotspot.form_main.resources
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Debug\Hotspot.Properties.Resources.resources
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Debug\Hotspot.csproj.GenerateResource.Cache
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Debug\Hotspot.exe.manifest
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Debug\Hotspot.application
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Debug\Hotspot.exe
+C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Debug\Hotspot.pdb
