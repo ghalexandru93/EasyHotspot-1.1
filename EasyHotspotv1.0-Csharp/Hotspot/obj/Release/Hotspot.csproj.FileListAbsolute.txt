@@ -11,3 +11,11 @@ C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.application
 C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.exe
 C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.pdb
 C:\Users\myria\OneDrive\c#\Hotspot\Hotspot\obj\Release\Hotspot.csprojResolveAssemblyReference.cache
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\bin\Release\Easy Hotspot.exe.config
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\bin\Release\Easy Hotspot.exe
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\bin\Release\Easy Hotspot.pdb
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\Release\Hotspot.Main.resources
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\Release\Hotspot.Properties.Resources.resources
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\Release\Hotspot.csproj.GenerateResource.Cache
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\Release\Easy Hotspot.exe
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\Release\Easy Hotspot.pdb

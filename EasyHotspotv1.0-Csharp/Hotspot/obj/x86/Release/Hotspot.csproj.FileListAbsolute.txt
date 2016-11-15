@@ -1,0 +1,8 @@
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\bin\x86\Release\Easy Hotspot.exe.config
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\bin\x86\Release\Easy Hotspot.exe
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\bin\x86\Release\Easy Hotspot.pdb
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\x86\Release\Hotspot.Main.resources
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\x86\Release\Hotspot.Properties.Resources.resources
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\x86\Release\Hotspot.csproj.GenerateResource.Cache
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\x86\Release\Easy Hotspot.exe
+D:\Sync\proiecte\EasyHotspot-v1.0-Csharp-master\EasyHotspot-v1.0-Csharp-master\EasyHotspotv1.0-Csharp\Hotspot\obj\x86\Release\Easy Hotspot.pdb
